@@ -1,0 +1,133 @@
+//cv//
+
+CONTACT
+wassimelhlaoui@gmailcom
+216 29 885 062
+HELAOUI WASSIM
+JOUEUR PROFESSIONNEL
+MONASTIR,TUNIS
+SPORT
+GRIA
+EVA
+ABOUT ME
+Je suis un jeune footballeur tunisien de 20 ans, passionné par le jeu et déterminé à exceller sur le terrain. Ma vision stratégique et mon esprit d'équipe sont mes atouts principaux. Prêt à relever tous les défis pour atteindre mes objectifs dans le monde du football.
+FORMATION
+KAHNA ACADEMIE MONASTIR
+2008_2014
+MONASTIR
+EXPERIENCE PROFESSIONNEL
+UNION SPORTIVE MONASTIRIENNE SENIOR B
+2023
+UNION SPORTIVE MONASTIRIENNE 2014
+MONASTIR
+EDUCATION
+• DIPLOME BACCALEAURIAT TUNISIEN
+2023
+⚫ ETUDIANT DE GESTION
+2024
+LANGUAGES
+·
+English
+Arabe
+• Français
+UNION SPOTIVE KSIBET MEDIOUNI CONTRAT SEMI PROFESSIONNEL 8 MOIS OCTOBRE 2023
+POSTES RECUPERES
+す
+pivot relayeur
+attaquant
+CORDONNEES PHYSIQUE
+. TAILLE 180 CM
+. POIDS 76 KGS
+
+//////
+Great, I can see the CV for Helaoui Wassim. Let's outline the sections for the portfolio website based on the information provided:
+
+1. **Home Page**
+   - Introduction with a hero image
+   - Brief overview
+
+2. **About Me**
+   - Personal introduction and vision statement
+
+3. **Career Highlights**
+   - Football experience
+   - Clubs and teams
+   - Achievements and awards
+
+4. **Education**
+   - Academic background
+
+5. **Skills and Languages**
+   - Football positions and skills
+   - Languages spoken
+
+6. **Physical Details**
+   - Height and weight
+
+7. **Contact Information**
+   - Email
+   - Phone number
+   - Location
+
+8. **Gallery**
+   - Images and videos
+
+9. **Social Media Links**
+
+### Step-by-Step Plan
+
+1. **Home Page**
+   - Hero section with a high-quality image of Wassim
+   - Brief introduction text
+
+2. **About Me**
+   - Detailed bio section
+   - Vision and passion for football
+
+3. **Career Highlights**
+   - Detailed list of football experiences
+   - Clubs and dates
+   - Notable achievements
+
+4. **Education**
+   - List of academic qualifications
+   - Years and institutions
+
+5. **Skills and Languages**
+   - Positions played: Pivot relayeur and Attaquant
+   - Languages: English, Arabic, French
+
+6. **Physical Details**
+   - Height: 180 cm
+   - Weight: 76 kg
+
+7. **Contact Information**
+   - Email: wassimelhaoui@gmail.com
+   - Phone: 216 29 885 062
+   - Location: Monastir, Tunisia
+
+8. **Gallery**
+   - Create a section for images and videos
+
+9. **Social Media Links**
+   - Include any relevant social media links
+
+### Next Steps
+
+1. **Set Up the Project**
+   - Create a new Next.js project
+   - Set up Tailwind CSS for styling
+
+2. **Create the Pages and Components**
+   - Create separate components for each section
+   - Organize the components in a way that makes the site easy to navigate
+
+3. **Styling and Responsiveness**
+   - Use Tailwind CSS to style the components
+   - Ensure the site is responsive for different devices
+
+4. **Deploy the Website**
+   - Choose a hosting service (e.g., Vercel, Netlify)
+   - Deploy the website
+
+Would you like to start with the project setup, or do you need help with a specific section?
