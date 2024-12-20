@@ -1,8 +1,10 @@
+
 // src/public/Image/image.ts
 import cv from '/public/img/cv.jpg'
 import logo from '/public/img/logo/logo1.png';
 import logoUSMO from '/public/img/logo/USM logo.png';
 import logoUsk from '/public/img/logo/Usk.png';
+import logoMsaken from '/public/img/logo/Msaken.png';
 import img1 from '/public/img/i1.jpg';
 import img2 from '/public/img/i2.jpg';
 import img3 from '/public/img/i3.jpg';
@@ -32,6 +34,20 @@ import usm1 from '/public/img/USM1.jpg';
 import usm2 from '/public/img/USM2.jpg';
 import usm3 from '/public/img/USM3.jpg';
 import usm4 from '/public/img/USM4.jpg';
+import kahana from '/public/img/kahana.jpg';
+import msake1 from '/public/img/msaken1.jpg';
+import msaken2 from '/public/img/msaken2.jpg';
+import msaken3 from '/public/img/msaken3.jpg';
+import msaken4 from '/public/img/msaken4.jpg';
+import msaken5 from '/public/img/msaken5.jpg';
+import msaken6 from '/public/img/msaken6.jpg';
+import msaken7 from '/public/img/msaken7.jpg';
+import msaken8 from '/public/img/msaken8.jpg';
+import msaken9 from '/public/img/msaken9.jpg';
+import msaken10 from '/public/img/msaken10.jpg';
+import msakencontrat from '/public/img/MsakenContrat.jpg';
+import uskcontrat from '/public/img/USKcontrat.jpg';
+
 
 
 export {
@@ -39,6 +55,7 @@ export {
     logo,
     logoUSMO,
     logoUsk,
+    logoMsaken,
     img1,
     img2,
     img3,
@@ -67,5 +84,18 @@ export {
     usm1,
     usm2,
     usm3,
-    usm4
+    usm4,
+    kahana,
+    msake1,
+    msaken2,
+    msaken3,
+    msaken4,
+    msaken5,
+    msaken6,
+    msaken7,
+    msaken8,
+    msaken9,
+    msaken10,
+    msakencontrat,
+    uskcontrat
 };

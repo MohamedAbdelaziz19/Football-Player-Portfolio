@@ -2,6 +2,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { logo } from '../../public/img/image';
 import { FaInstagram, FaFacebookF, FaYoutube } from 'react-icons/fa';
+import { Home, Info, FileText, Briefcase, PlayCircle, Mail } from 'lucide-react'; // Import icons for navigation
 
 const Footer = () => {
   return (
@@ -16,33 +17,39 @@ const Footer = () => {
 
         <ul className="mt-12 flex flex-wrap justify-center gap-6 md:gap-8 lg:gap-12">
           <li>
-            <a href="#hero" className="text-gray-400 transition hover:text-yellow-500">
-              Home
+            <a href="#hero" className="flex items-center space-x-2 text-gray-400 transition hover:text-yellow-500">
+              <Home className="h-5 w-5" />
+              <span>Home</span>
             </a>
           </li>
           <li>
-            <a href="#about" className="text-gray-400 transition hover:text-yellow-500">
-              About
+            <a href="#about" className="flex items-center space-x-2 text-gray-400 transition hover:text-yellow-500">
+              <Info className="h-5 w-5" />
+              <span>About</span>
             </a>
           </li>
           <li>
-            <a href="#details" className="text-gray-400 transition hover:text-yellow-500">
-              Details
+            <a href="#details" className="flex items-center space-x-2 text-gray-400 transition hover:text-yellow-500">
+              <FileText className="h-5 w-5" />
+              <span>Details</span>
             </a>
           </li>
           <li>
-            <a href="#career" className="text-gray-400 transition hover:text-yellow-500">
-              Career
+            <a href="#career" className="flex items-center space-x-2 text-gray-400 transition hover:text-yellow-500">
+              <Briefcase className="h-5 w-5" />
+              <span>Career</span>
             </a>
           </li>
           <li>
-            <a href="#watch-now" className="text-gray-400 transition hover:text-yellow-500">
-              Watch Now
+            <a href="#watch-now" className="flex items-center space-x-2 text-gray-400 transition hover:text-yellow-500">
+              <PlayCircle className="h-5 w-5" />
+              <span>Watch Now</span>
             </a>
           </li>
           <li>
-            <a href="#contact" className="text-gray-400 transition hover:text-yellow-500">
-              Contact
+            <a href="#contact" className="flex items-center space-x-2 text-gray-400 transition hover:text-yellow-500">
+              <Mail className="h-5 w-5" />
+              <span>Contact</span>
             </a>
           </li>
         </ul>

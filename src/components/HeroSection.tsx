@@ -2,9 +2,9 @@
 import Image from 'next/image';
 import React, { useEffect, useState } from 'react';
 import { FaFacebook, FaInstagram, FaYoutube } from 'react-icons/fa'; 
-import { logo, img1, img2, img3, img4, img7, img9, img12, img23 } from '../../public/img/image'; // Adjust the import path if necessary
+import { logo, msaken8, img2, img3, msaken6, img7, img9, img23, msaken9 } from '../../public/img/image'; // Adjust the import path if necessary
 
-const images = [img1, img2, img3, img4, img7, img9, img12, img23];
+const images = [msaken8, img2, img3,msaken6 , img7, img9, msaken9, img23];
 
 const HeroSection: React.FC = () => {
   const [currentImage, setCurrentImage] = useState(img9);

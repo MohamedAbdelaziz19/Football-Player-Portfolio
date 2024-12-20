@@ -22,7 +22,7 @@ function Details() {
                   <FontAwesomeIcon icon={faWeightScale} className="h-6 w-6 text-yellow-500" />
                 </div>
                 <dt className="order-last text-lg font-medium text-gray-400">Weight</dt>
-                <dd className="text-4xl font-extrabold text-yellow-500 md:text-5xl">74kg</dd>
+                <dd className="text-4xl font-extrabold text-yellow-500 md:text-5xl">76kg</dd>
               </div>
 
               <div className="flex flex-col rounded-lg bg-gray-800 px-4 py-8 text-center">
@@ -30,7 +30,7 @@ function Details() {
                   <FontAwesomeIcon icon={faRulerVertical} className="h-6 w-6 text-yellow-500" />
                 </div>
                 <dt className="order-last text-lg font-medium text-gray-400">Height</dt>
-                <dd className="text-4xl font-extrabold text-yellow-500 md:text-5xl">180cm</dd>
+                <dd className="text-4xl font-extrabold text-yellow-500 md:text-5xl">178cm</dd>
               </div>
 
               <div className="flex flex-col rounded-lg bg-gray-800 px-4 py-8 text-center">

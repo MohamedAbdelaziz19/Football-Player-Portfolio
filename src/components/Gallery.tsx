@@ -1,7 +1,7 @@
 "use client";
 import Image from 'next/image';
 import React from 'react';
-import { logoUSMO, logoUsk, ess, est, usm2, img3, img9, img7, img13, img22, img1 } from '../../public/img/image'; // Adjust the import path if necessary
+import { logoUSMO, logoUsk, ess, est, usm2, img3, img9, img7, img13, img22, img1, logoMsaken, msaken10, msaken2, msaken4, msaken3, msaken5 } from '../../public/img/image'; // Adjust the import path if necessary
 import { FaYoutube } from 'react-icons/fa';
 
 const Gallery: React.FC = () => {
@@ -37,6 +37,23 @@ const Gallery: React.FC = () => {
           </div>
           <div className="w-full md:w-1/3 lg:w-1/4">
             <Image src={img1} alt="Gallery Image 6" className="rounded-lg shadow-lg transition-transform duration-500 transform hover:scale-105" />
+          </div>
+        </div>
+      </div>
+
+      <div className="max-w-7xl mx-auto mt-12">
+        <h3 className="text-2xl md:text-3xl font-bold mb-6 text-center">
+          <Image src={logoMsaken} alt="Logo Usk" className="inline-block w-12 h-12 mr-2" />
+        </h3>
+        <div className="flex flex-col md:flex-row flex-wrap items-center justify-center gap-8">
+          <div className="w-full md:w-1/3 lg:w-1/4">
+            <Image src={msaken10} alt="Gallery Image 4" className="rounded-lg shadow-lg transition-transform duration-500 transform hover:scale-105" />
+          </div>
+          <div className="w-full md:w-1/3 lg:w-1/4">
+            <Image src={msaken2} alt="Gallery Image 5" className="rounded-lg shadow-lg transition-transform duration-500 transform hover:scale-105" />
+          </div>
+          <div className="w-full md:w-1/3 lg:w-1/4">
+            <Image src={msaken5} alt="Gallery Image 6" className="rounded-lg shadow-lg transition-transform duration-500 transform hover:scale-105" />
           </div>
         </div>
       </div>
