@@ -45,7 +45,7 @@ import msaken7 from '/public/img/msaken7.jpg';
 import msaken8 from '/public/img/msaken8.jpg';
 import msaken9 from '/public/img/msaken9.jpg';
 import msaken10 from '/public/img/msaken10.jpg';
-import msakencontrat from '/public/img/MsakenContrat.jpg';
+import msakencontrat from '/public/img/Msakencontrat.jpg';
 import uskcontrat from '/public/img/USKcontrat.jpg';
 
 
