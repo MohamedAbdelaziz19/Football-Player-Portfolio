@@ -57,7 +57,7 @@ const Footer = () => {
         <ul className="mt-12 flex justify-center gap-6 md:gap-8">
           <li>
             <a
-              href="#"
+              href="https://www.instagram.com/wassim_helaoui/"
               rel="noreferrer"
               target="_blank"
               className="text-gray-400 transition hover:text-yellow-500"
@@ -68,7 +68,7 @@ const Footer = () => {
           </li>
           <li>
             <a
-              href="#"
+              href="https://www.facebook.com/wassim.hlaoui.90"
               rel="noreferrer"
               target="_blank"
               className="text-gray-400 transition hover:text-yellow-500"
@@ -79,7 +79,7 @@ const Footer = () => {
           </li>
           <li>
             <a
-              href="#"
+              href="https://youtube.com/@helaouiwassim?si=mLaJFi8JWX0EMEv3"
               rel="noreferrer"
               target="_blank"
               className="text-gray-400 transition hover:text-yellow-500"
